@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UnderChile</string>
+    <string name="title_activity_activity_map">Map</string>
+    <string name="title_activity_activity_navigation">ActivityNavigation</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menu">
+        <item>SubMenu 1</item>
+        <item>SubMenu 2</item>
+        <item>SubMenu 3</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_activity_list_v">ActivityListV</string>
+    <string name="title_activity_volley">Volley</string>
+</resources>
